@@ -83,7 +83,7 @@ export default {
 
   &.secondary{
     background:#fff!important;
-    color:$primary!important;
+    color:rgb(75,137,251)!important;
   }
 
 }
